@@ -1,6 +1,8 @@
 -[x] Find repository with similar purpose.
 I found a repository called ListMaker (https://github.com/yoptgyo/ListMaker.git) which should help me create lists. I have alreay run it is Visual Studio Code so I know it works.
--[] Create an initial code of PantryPal
+-[x] Create an initial code of PantryPal
+
+-entry from 11/18/2024
 I found a Repository called To-Do-List-Application by Sharmeen20
 I found a python code that is also a to-do list made by @Aryan_Singh_coder on youtube (https://www.youtube.com/shorts/5qY9IFIcvMo) I will use this code as the base for PantryPal instead as
 the code is simpler than ListMaker
