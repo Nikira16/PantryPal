@@ -16,9 +16,15 @@ def view_list():
             print(f"{i}. {item}")
 
 def add_items():
-    item = input("Enter your current grocery/pantry items: ")
-    items.append(item)
-    print(f"'{item}' has been added to the list.")
+
+    while True:
+        item = input("Enter your current grocery/pantry items: ")
+        if item == end_list:
+            items.append(item)
+            print(f"'{item}' has been added to the list.")
+            break
+        else:
+            print("enter abother item: ")
 
 def delete_items():
     view_list()
